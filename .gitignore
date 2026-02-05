@@ -1,0 +1,46 @@
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Notebooks de Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+
+# Datos sensibles
+*.env
+.env.local
+credentials.json
+secrets.yaml
+
+# Archivos de logs
+*.log
+logs/
+
+# Archivos grandes de datos
+*.csv
+*.xlsx
+*.parquet
+data/raw/
+data/processed/
+
+# Backups
+*.bak
+*.backup
