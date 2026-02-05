@@ -27,7 +27,7 @@ Durante mi carrera como **Coordinador de Logística**, descubrí que los datos e
 
 ### 🎯 **Mi Propuesta de Valor Única:**
 - 🚀 **35%** de aumento en eficiencia operativa mediante análisis predictivo
-- 💰 **$XXX** en ahorros anuales por optimización data-driven
+- 💰 Impacto económico comprobable a través de optimización data-driven
 - ⏱️ **40 horas/mes** recuperadas mediante automatización con Python
 - 📊 **85%** de precisión en sistemas predictivos implementados
 
@@ -116,7 +116,7 @@ Durante mi carrera como **Coordinador de Logística**, descubrí que los datos e
 
 ### 🎯 Impacto Principal:
 - 📈 Aumenté eficiencia operativa en **35%** mediante análisis de datos
-- 💰 ROI: Ahorré **$XXX anuales** en optimización de rutas y recursos
+- 💰 ROI demostrable: optimización tangible en rutas y recursos
 - ⏱️ Automaticé **15+ reportes** mensuales (ahorro: 40 horas/mes)
 - 🎯 Implementé sistema predictivo de demanda (precisión: **85%**)
 
@@ -143,20 +143,11 @@ Durante mi carrera como **Coordinador de Logística**, descubrí que los datos e
 ## 🚀 Proyectos Destacados
 
 <p align="center">
-  <a href="https://github.com/YurgenMg/logistica-data-analysis">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YurgenMg&repo=logistica-data-analysis&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/YurgenMg/Torre_Control">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YurgenMg&repo=Torre_Control&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/YurgenMg/dashboard-kpis-powerbi">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YurgenMg&repo=dashboard-kpis-powerbi&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/YurgenMg/python-automation-reports">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YurgenMg&repo=python-automation-reports&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/[TU_USERNAME]/predictive-demand-system">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YurgenMg&repo=predictive-demand-system&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/YurgenMg/Dashboard_de_Analisis_de_Vehiculos_USA">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YurgenMg&repo=Dashboard_de_Analisis_de_Vehiculos_USA&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -171,7 +162,7 @@ Durante mi carrera como **Coordinador de Logística**, descubrí que los datos e
 ## 🤝 Conecta Conmigo
 
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/yurgenmg/">
+  <a href="https://www.linkedin.com/in/yurgenmg/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:yurgenmg@hotmail.com">
